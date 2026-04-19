@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AirportMiniExercise/AirportWebAPI.csproj" />
+  <Project Path="DepartureDashboard/DepartureDashboard.csproj" />
+</Solution>

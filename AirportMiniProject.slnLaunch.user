@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "AirportMini",
+    "Projects": [
+      {
+        "Path": "AirportMiniExercise\\AirportWebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DepartureDashboard\\DepartureDashboard.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

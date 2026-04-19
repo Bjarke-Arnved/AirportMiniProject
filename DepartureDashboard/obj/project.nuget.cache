@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFCG5oZyGN0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bjarke\\Documents\\4 Semester\\SystemIntegration\\AirportMiniProject\\DepartureDashboard\\DepartureDashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bjarke\\.nuget\\packages\\rabbitmq.client\\7.2.1\\rabbitmq.client.7.2.1.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

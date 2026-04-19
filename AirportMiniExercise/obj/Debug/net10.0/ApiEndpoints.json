@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "AirportWebAPI.Controllers.FlightController",
+    "Method": "Index",
+    "RelativePath": "api/Flight",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AirportWebAPI.Controllers.FlightController",
+    "Method": "GetDeparture",
+    "RelativePath": "api/Flight/{flightNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flightNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AirportWebAPI.Models.FlightDeparture",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AirportWebAPI.Controllers.FlightController",
+    "Method": "PostFlight",
+    "RelativePath": "api/Flight/api/departures",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flight",
+        "Type": "AirportWebAPI.Models.FlightDeparture",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AirportWebAPI.Models.FlightDeparture",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

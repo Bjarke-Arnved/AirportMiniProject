@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXm8+7Elpic=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bjarke\\Documents\\4 Semester\\SystemIntegration\\AirportMiniProject\\AirportMiniExercise\\AirportWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bjarke\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.3\\microsoft.entityframeworkcore.10.0.3.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.3\\microsoft.entityframeworkcore.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.3\\microsoft.entityframeworkcore.analyzers.10.0.3.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.3\\microsoft.entityframeworkcore.inmemory.10.0.3.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\rabbitmq.client\\7.2.1\\rabbitmq.client.7.2.1.nupkg.sha512",
+    "C:\\Users\\Bjarke\\.nuget\\packages\\scalar.aspnetcore\\2.12.52\\scalar.aspnetcore.2.12.52.nupkg.sha512"
+  ],
+  "logs": []
+}
